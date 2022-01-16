@@ -7,7 +7,6 @@ public class Hw4_p6 {
         ArrayList HashMapInsertTimeArray = new ArrayList();
         ArrayList ArrayListInsertTimeArray = new ArrayList();
         ArrayList LinkedListInsertTimeArray = new ArrayList();
-        I am a first-year Master's student in Software Development at Boston University. I love coding and am passionate to learn new knowledge and skills!
         ArrayList HashMapSearchTimeArray = new ArrayList();
         ArrayList ArrayListSearchTimeArray = new ArrayList();
         ArrayList LinkedListSearchTimeArray = new ArrayList();
