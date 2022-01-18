@@ -13,5 +13,7 @@ Each of the data structure was given 100,000 random integers ranging from 0(incl
 This program then repeats each insertion and searching for 10 times and calculated their average insertion and searching time as shown above.
 
 ## Observation
+1. Although both ArrayList and LinkedList are both O(n), ArrayList actually implements a RandomAccess Interface which provdies capabilities of random retrivals verses LinkedList do not implents any marker interface.
+2. When comparing ArrayList and LinkedList, ArrayList is better at searching while LinkedList is better at insertion and deletion.
+3. HashMap is incredibily fast at searching with O(n) time complexity. While HashMap takes more time and memory than ArrayList and LinkedList, it will be faster compares to the rest two for larger values of n. 
 
-  
